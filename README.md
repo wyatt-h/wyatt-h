@@ -8,8 +8,10 @@
 
   </div>
 
+<div align="left">
 - 📫 How to reach me **zeanh2@illinois.edu**
-
+  </div>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/wyatth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wyatth" height="30" width="40" /></a>
