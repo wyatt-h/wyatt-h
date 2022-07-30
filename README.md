@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Wyatt Huang</h1>
 <h3 align="center">A passionate full-stack developer studying at UIUC</h3>
-<div align="right">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyatt-h)](https://github.com/anuraghazra/github-readme-stats)</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyatt-h)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 📫 How to reach me **zeanh2@illinois.edu**
