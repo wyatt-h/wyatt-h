@@ -48,7 +48,7 @@
 <p align="left">
 
   
-<h3 align="left">Tools and Framewords I use:</h3>
+<h3 align="left">Tools and Frameworks I use:</h3>
 <p align="left"> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
