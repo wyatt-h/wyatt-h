@@ -2,15 +2,21 @@
 <h1 align="center">Hi 👋, I'm Wyatt Huang</h1>
 <h3 align="center">A passionate full-stack developer studying at UIUC</h3>
 
-<div align="left">
-- 📫 How to reach me **zeanh2@illinois.edu**
-  </div>
+<div>
   
+- 📫 How to reach me **zeanh2@illinois.edu**
+
+- 📄 Know about my experiences [Resume](./Resume.pdf)
+  
+</div>
+  
+<div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/wyatth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wyatth" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wyatt-huang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wyatt-huang/" height="30" width="40" /></a>
 </p>
+</div>
 
 <h3 align="left">Languages I use:</h3>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
