@@ -6,8 +6,8 @@
   
 - 📫 How to reach me **zeanh2@illinois.edu**
 
-- 📄 Know about my experiences [Resume](./Resume.pdf)
-  
+<!-- - 📄 Know about my experiences [Resume](./Resume.pdf)
+   -->
 </div>
   
 <div>
